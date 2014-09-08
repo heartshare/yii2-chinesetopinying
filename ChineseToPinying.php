@@ -3,6 +3,7 @@
 namespace liao0007\yii2\chinesetopinying;
 
 use Yii;
+use \yii\base\Object;
 
 class ChineseToPinying extends Object
 {
