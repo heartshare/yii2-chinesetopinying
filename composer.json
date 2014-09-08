@@ -1,0 +1,22 @@
+{
+	"name": "liao0007/yii2/chinesetopinying",
+	"description": "Chinse transelate to Pinying wrapper for the Yii framework",
+	"keywords": ["yii2", "chinese", "pinying"],
+	"type": "yii2-extension",
+	"license": "BSD-3-Clause",
+	"support": {
+		"source": "https://github.com/liao0007/yii2-chinesetopinying"
+	},
+	"authors": [
+		{
+			"name": "Liao Liang",
+			"email": "liao0007@gmail.com"
+		}
+	],
+	"require": {
+		"yiisoft/yii2": "*"
+	},
+	"autoload": {
+		"psr-4": { "liao0007\\yii2\\chinesetopinying\\": "" }
+	}
+}
