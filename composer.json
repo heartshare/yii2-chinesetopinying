@@ -1,5 +1,5 @@
 {
-	"name": "liao0007/yii2/chinesetopinying",
+	"name": "liao0007/yii2-chinesetopinying",
 	"description": "Chinse transelate to Pinying wrapper for the Yii framework",
 	"keywords": ["yii2", "chinese", "pinying"],
 	"type": "yii2-extension",
